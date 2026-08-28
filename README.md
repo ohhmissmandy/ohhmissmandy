@@ -6,7 +6,7 @@ One example of that is the enterprise self-service technology work I supported a
 
 I also built [AI for Technology Delivery](https://github.com/ohhmissmandy/ai-for-technology-delivery), a practical prompt library for the day-to-day work behind technology delivery, from messy intake through launch and operational handoff.
 
-I'm also spending more time on AI governance and responsible adoption. I'm especially interested in decision rights: what AI should be trusted to decide on its own, where it should only assist, and who owns the outcome when something goes wrong. I write about that in [Responsible AI Adoption](https://github.com/ohhmissmandy/responsible-ai-adoption).
+I'm also spending more time on AI governance and responsible adoption. I'm especially interested in decision rights: what AI should be trusted to decide on its own, where it should only assist, and who owns the outcome when something goes wrong. I write about that in [Responsible AI Adoption](https://github.com/ohhmissmandy/responsible-ai-adoption), and I've started exploring how those same questions show up in system design in [AI Governance by Design](https://github.com/ohhmissmandy/ai-governance-by-design).
 
 I'm preparing for the PMP exam and working on a bachelor's degree with concentrations in information technology, leadership development, and project management.
 
